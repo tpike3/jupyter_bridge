@@ -1,6 +1,6 @@
 {
     "name": "jupyter_bridge",
-    "version": "0.1.0",
+    "version": "0.3.5",
     "description": "A JupyterLab extension that adds footer buttons to code cells for improved interactivity and visibility control, supporting operations like running cells, hiding/showing code, and managing output directly from the cell interface. Initial functionality included to mark documentation cells that are controlled by their corresponding code cells.",
     "keywords": [
         "jupyter",
