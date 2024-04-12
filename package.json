@@ -56,7 +56,17 @@
         "watch:labextension": "jupyter labextension watch ."
     },
     "dependencies": {
-        "@jupyterlab/application": "^4.0.0"
+        "@fortawesome/fontawesome-free": "^6.5.2",
+        "@jupyterlab/application": "^4.1.6",
+        "@jupyterlab/apputils": "^4.2.6",
+        "@jupyterlab/cells": "^4.1.6",
+        "@jupyterlab/codeeditor": "^4.1.6",
+        "@jupyterlab/notebook": "^4.1.6",
+        "@jupyterlab/outputarea": "^4.1.6",
+        "@jupyterlab/rendermime": "^4.1.6",
+        "@lumino/commands": "^2.3.0",
+        "@lumino/coreutils": "^2.1.2",
+        "react": "^18.2.0"
     },
     "devDependencies": {
         "@jupyterlab/builder": "^4.0.0",
