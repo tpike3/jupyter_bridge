@@ -2,7 +2,11 @@
 
 This Dashboard is the Jupter Bridge inagurual tool to demonstrate *How To Jupyter Bridge*
 
-[Dashboard](#TODO INSERT py.cafe link)
+This shows the tool 
 
-[Interactive](#TODO add binder link)
+[Dashboard](https://py.cafe/app/tpike3/Grade%20DashBoard)
 
+
+This takes you to an editable version
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpike3/jupyter_bridge/main?labpath=docs%2Fdomains%2Feducation%2Fcourse_grade_solara.ipynb)

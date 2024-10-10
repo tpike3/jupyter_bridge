@@ -121,7 +121,7 @@ maxdepth: 2
 hidden: true
 ---
 Overview <self>
-Demo Tool <domains/education/grade_dashboard>
+Example <domains/education/grade_dashboard>
 Domains <domains/domain_overview>
 ```
 
