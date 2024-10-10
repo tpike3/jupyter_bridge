@@ -1,0 +1,2451 @@
+{
+    "BSI": {
+        "BCR401": {
+            "Sections": {
+                "All": [
+                    "Mid-term Exam",
+                    "Final Paper",
+                    "Class Participation",
+                    "Critical Analysis"
+                ],
+                "2024_10_BCR__401__02": [
+                    "Mid-term Exam",
+                    "Final Paper",
+                    "Class Participation",
+                    "Critical Analysis"
+                ]
+            }
+        },
+        "BCR413": {
+            "Sections": {
+                "All": [
+                    "Blog Post on Analytical Methodologies and S&T Analysis key words-concepts",
+                    "Blog Post on Globalization of S&T key words-concepts",
+                    "Discussion Post on Information and Influence Intelligence",
+                    "Discussion Post on Overview of Science & Technology Intelligence",
+                    "Blog Post on Data Science Intelligence key words-concepts",
+                    "Attendance",
+                    "S&TI  Ties to Capstone White Paper",
+                    "Discussion Post on Data Science Intelligence",
+                    "Discussion Post on Emerging Technologies",
+                    "Blog Post on Cyber Intelligence key words-concepts",
+                    "Student Presentation",
+                    "Discussion Post on Globalization of S&T",
+                    "Week 7 - Journal Reflection on Sessions 4-7",
+                    "Blog Post on Overview of Science & Technology key words-concepts",
+                    "Blog Post on Emerging Technologies key words-concepts",
+                    "Discussion Post on Counterproliferation",
+                    "Blog Post on Counterproliferation key words-concepts",
+                    "Week 4 - Journal Reflection on Sessions 1-3",
+                    "Week 10 - Reflective Journal on Sessions 8-10",
+                    "Discussion Post on Cyber Intelligence",
+                    "Blog Post on Information and Intelligence key words-concepts",
+                    "Discussion Post on Analytical Methodologies and S&T Analysis"
+                ]
+            }
+        },
+        "BCR407": {
+            "Sections": {
+                "All": [
+                    "Short Esssay",
+                    "Attendance",
+                    "Final",
+                    "Paper I",
+                    "Paper II",
+                    "Arg Map",
+                    "Short Essay"
+                ],
+                "2024_10_BCR__407__01": [
+                    "Attendance",
+                    "Short Essay",
+                    "Final",
+                    "Paper I",
+                    "Paper II",
+                    "Arg Map"
+                ]
+            }
+        },
+        "BCR409": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Individual Paper: (Collection Prioritization and Gap Analysis)",
+                    "Group Case Study Presentation: (Collection Prioritization and Gap Analysis)",
+                    "classified questions-exercises",
+                    "Case Study Individual Paper: Collection Prioritization and Gap Analysis"
+                ],
+                "2024_10_BCR__409__02": [
+                    "Case Study Individual Paper: Collection Prioritization and Gap Analysis",
+                    "Attendance",
+                    "Group Case Study Presentation: (Collection Prioritization and Gap Analysis)",
+                    "classified questions-exercises"
+                ]
+            }
+        },
+        "BCR411": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ],
+                "2024_10_BCR__411__01": [
+                    "Attendance"
+                ]
+            }
+        },
+        "BCR405": {
+            "Sections": {
+                "All": [
+                    "Group Presentation",
+                    "Attendance",
+                    "Methods Application Paper",
+                    "Capstone Project Topic Diagram or Map",
+                    "SATs for the IC Report"
+                ],
+                "2024_20_BCR__405__01": [
+                    "Group Presentation",
+                    "Attendance",
+                    "Methods Application Paper",
+                    "Capstone Project Topic Diagram or Map",
+                    "SATs for the IC Report"
+                ]
+            }
+        }
+    },
+    "MSTI": {
+        "MST653": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST671": {
+            "Sections": {
+                "All": [
+                    "MST 671 Mid-Course Survey",
+                    "Attendance",
+                    "MST 671 - Midterm Exam",
+                    "Participation",
+                    "MST 671 - Final Exam - Winter 2023-2024"
+                ],
+                "2024_20_MST__671__EH": [
+                    "Attendance"
+                ],
+                "2024_20_MST__671__01": [
+                    "MST 671 - Midterm Exam",
+                    "Participation",
+                    "Attendance",
+                    "MST 671 - Final Exam - Winter 2023-2024"
+                ]
+            }
+        },
+        "MST674": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Group Project",
+                    "Tech Paper"
+                ]
+            }
+        },
+        "MST688": {
+            "Sections": {
+                "All": [
+                    "Homework 8 \u2013 Reproducibility",
+                    "SESSION #1 - ATTENDANCE",
+                    "Homework 6 - Statistics and Complexity",
+                    "Attendance",
+                    "SESSION #3 - ATTENDANCE",
+                    "Homework 0 - Udacity Course",
+                    "SESSION #5 - ATTENDANCE",
+                    "SESSION #10 - ATTENDANCE",
+                    "Homework 4 - Tidy the Data",
+                    "SESSION #6 - ATTENDANCE",
+                    "SESSION #8 - ATTENDANCE",
+                    "Homework 2 - Data Structures",
+                    "SESSION #2 - ATTENDANCE",
+                    "Homework 3 - Developing Your Question",
+                    "Homework 7 - Location Based Analysis",
+                    "SESSION #7 - ATTENDANCE",
+                    "SESSION #9 - ATTENDANCE",
+                    "Homework 5 - Visualize Your Data",
+                    "SESSION #4 - ATTENDANCE",
+                    "Homework 1 - Store Knowledge as Code",
+                    "Final Presentation",
+                    "Homework 6 - Location Based Analysis",
+                    "Session 10 Attendance",
+                    "HW 5",
+                    "Session 6 Attendance",
+                    "HW 7",
+                    "Final_Grade_Precise",
+                    "Session 9 Attendance",
+                    "Udacity Course",
+                    "Session 7 Attendance",
+                    "HW 8",
+                    "HW 6",
+                    "HW 4",
+                    "Final Project",
+                    "HW 2",
+                    "Session 8 Attendance",
+                    "HW 9",
+                    "Session 5 Attendance",
+                    "Session 1 Attendance",
+                    "HW 3",
+                    "Session 4 Attendance",
+                    "Session 3 Attendance",
+                    "Session 2 Attendance",
+                    "Udacity",
+                    "Research Presentation",
+                    "Homework",
+                    "Class Participation"
+                ],
+                "2024_20_MST__688__EW": [
+                    "Homework 0 - Udacity Course",
+                    "Homework 4 - Tidy the Data",
+                    "Homework 2 - Data Structures",
+                    "Homework 3 - Developing Your Question",
+                    "Homework 5 - Visualize Your Data",
+                    "Homework 6 - Location Based Analysis",
+                    "Homework 1 - Store Knowledge as Code",
+                    "Final Presentation"
+                ],
+                "2024_10_MST__688__EW1": [
+                    "Session 10 Attendance",
+                    "HW 5",
+                    "Session 6 Attendance",
+                    "HW 7",
+                    "Final_Grade_Precise",
+                    "Session 9 Attendance",
+                    "Udacity Course",
+                    "Session 7 Attendance",
+                    "HW 8",
+                    "HW 6",
+                    "HW 4",
+                    "Final Project",
+                    "HW 2",
+                    "Session 8 Attendance",
+                    "HW 9",
+                    "Session 5 Attendance",
+                    "Session 1 Attendance",
+                    "HW 3",
+                    "Session 4 Attendance",
+                    "Session 3 Attendance",
+                    "Session 2 Attendance"
+                ],
+                "2024_10_MST__688__RA": [
+                    "Udacity",
+                    "Attendance",
+                    "Research Presentation",
+                    "Homework",
+                    "Class Participation"
+                ]
+            }
+        },
+        "MST665": {
+            "Sections": {
+                "All": [
+                    "Reading Response 2b",
+                    "Participation",
+                    "Attendance",
+                    "Reading Response 1b",
+                    "Mid-Term Exam",
+                    "Reading Response 1a",
+                    "Reading Response 2c",
+                    "Reading Response 2a"
+                ],
+                "2024_10_MST__665__ET1": [
+                    "Reading Response 2b",
+                    "Participation",
+                    "Attendance",
+                    "Mid-Term Exam",
+                    "Reading Response 1a",
+                    "Reading Response 2c",
+                    "Reading Response 2a"
+                ]
+            }
+        },
+        "MST663": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Research Paper",
+                    "Group Project",
+                    "Reading Notes",
+                    "WMD Headline"
+                ]
+            }
+        },
+        "MST681": {
+            "Sections": {
+                "All": [
+                    "Mid-Term",
+                    "Seminar Participation 6-10",
+                    "Seminar Participation 1-5",
+                    "Weekly Response 2",
+                    "Weekly Response 1",
+                    "Final Essay",
+                    "Attendance"
+                ],
+                "2024_20_MST__681__01": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST93P": {
+            "Sections": {
+                "All": [
+                    "Lab Notebook 5",
+                    "Lab Notebook 9",
+                    "Lab Notebook 4",
+                    "Lab 2",
+                    "Lab 3",
+                    "Lab 1",
+                    "Lab 7",
+                    "Final Project Interim 1",
+                    "Final Project",
+                    "Lab 5",
+                    "Lab Notebook 3",
+                    "Lab Notebook 8",
+                    "Lab 6",
+                    "Lab 4",
+                    "Lab Notebook 1",
+                    "Lab Notebook 6",
+                    "Lab Notebook 7",
+                    "Lab Notebook 10",
+                    "Lab Notebook 2",
+                    "Tentative Research Topic"
+                ]
+            }
+        },
+        "MST613": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Discussion Post on Information and Influence Intelligence",
+                    "Discussion Post on Overview of Science & Technology Intelligence",
+                    "Week 10 - Journal Reflection: Weeks 8-10",
+                    "5. Blog Post on Counterproliferation key words-concepts",
+                    "Discussion Post on Data Science Intelligence",
+                    "Student Presentations",
+                    "Discussion Post on Emerging Technologies",
+                    "Week 7 - Journal Reflection: Weeks 4-7",
+                    "2. Blog Post on Analytical Methodologies and S&T Analysis key words-concepts",
+                    "Week 9 - Human-Centered Design White Paper",
+                    "4. Blog Post on Data Science Intelligence",
+                    "Week 5 - Human-Centered Design Paper Proposal",
+                    "1. Blog Post on Overview of Science & Technology Intelligence key words-concepts",
+                    "Discussion Post on Globalization of Science & Technology",
+                    "3. Blog Post on Globalization of S&T key words-concepts",
+                    "Discussion Post on Counterproliferation",
+                    "Week 4 - Journal Reflection on Science and Technology Intelligence",
+                    "8. Blog Post on Information and Influence Intelligence",
+                    "Discussion Post on Analytical Methodologies & S&T Analysis",
+                    "Discussion Post on Cyber Intelligence",
+                    "7. Blog Post on Emerging Technologies key words-concepts",
+                    "6. Blog Post on Cyber Intelligence",
+                    "Blog Post on Analytical Methodologies and S&T Analysis key words-concepts",
+                    "Blog Post on Globalization of S&T key words-concepts",
+                    "Week 5 - Midterm Exam",
+                    "Blog Post on Data Science Intelligence",
+                    "Blog Post on Emerging Technologies key words-concepts",
+                    "Blog Post on Counterproliferation key words-concepts",
+                    "Blog Post on Cyber Intelligence",
+                    "Blog Post on Information and Influence Intelligence",
+                    "Blog Post on Overview of Science & Technology Intelligence key words-concepts",
+                    "Blog Post on Information and Influence Intelligence Key Words-Concepts",
+                    "Blog Post on Analytical Methodology and S&T Analysis Key Words-Concepts",
+                    "Blog Post on Overview of Science & Technology Intelligence Key Words-Concepts",
+                    "Discussion Post on Globalization of S&T",
+                    "Blog Post on Emerging Technologies Key Word-Concepts",
+                    "Blog Post on Cyber Intelligence Key Words-Concepts",
+                    "Blog Post on Globalization of S&T Key Words-Concepts",
+                    "Blog Post on Counterproliferation Key Words-Concepts"
+                ],
+                "2024_20_MST__613__SAC": [
+                    "Discussion Post on Information and Influence Intelligence",
+                    "Discussion Post on Overview of Science & Technology Intelligence",
+                    "Attendance",
+                    "Week 10 - Journal Reflection: Weeks 8-10",
+                    "5. Blog Post on Counterproliferation key words-concepts",
+                    "Discussion Post on Data Science Intelligence",
+                    "Student Presentations",
+                    "Discussion Post on Emerging Technologies",
+                    "Week 7 - Journal Reflection: Weeks 4-7",
+                    "2. Blog Post on Analytical Methodologies and S&T Analysis key words-concepts",
+                    "Week 9 - Human-Centered Design White Paper",
+                    "4. Blog Post on Data Science Intelligence",
+                    "Week 5 - Human-Centered Design Paper Proposal",
+                    "1. Blog Post on Overview of Science & Technology Intelligence key words-concepts",
+                    "Discussion Post on Globalization of Science & Technology",
+                    "3. Blog Post on Globalization of S&T key words-concepts",
+                    "Discussion Post on Counterproliferation",
+                    "Week 4 - Journal Reflection on Science and Technology Intelligence",
+                    "8. Blog Post on Information and Influence Intelligence",
+                    "Discussion Post on Analytical Methodologies & S&T Analysis",
+                    "Discussion Post on Cyber Intelligence",
+                    "7. Blog Post on Emerging Technologies key words-concepts",
+                    "6. Blog Post on Cyber Intelligence"
+                ],
+                "2024_10_MST__613__02": [
+                    "Blog Post on Analytical Methodologies and S&T Analysis key words-concepts",
+                    "Blog Post on Globalization of S&T key words-concepts",
+                    "Discussion Post on Information and Influence Intelligence",
+                    "Discussion Post on Overview of Science & Technology Intelligence",
+                    "Week 5 - Midterm Exam",
+                    "Attendance",
+                    "Week 10 - Journal Reflection: Weeks 8-10",
+                    "Discussion Post on Data Science Intelligence",
+                    "Student Presentations",
+                    "Discussion Post on Emerging Technologies",
+                    "Week 7 - Journal Reflection: Weeks 4-7",
+                    "Week 9 - Human-Centered Design White Paper",
+                    "Blog Post on Data Science Intelligence",
+                    "Week 5 - Human-Centered Design Paper Proposal",
+                    "Discussion Post on Globalization of Science & Technology",
+                    "Blog Post on Emerging Technologies key words-concepts",
+                    "Discussion Post on Counterproliferation",
+                    "Week 4 - Journal Reflection on Science and Technology Intelligence",
+                    "Blog Post on Counterproliferation key words-concepts",
+                    "Blog Post on Cyber Intelligence",
+                    "Discussion Post on Analytical Methodologies & S&T Analysis",
+                    "Discussion Post on Cyber Intelligence",
+                    "Blog Post on Information and Influence Intelligence",
+                    "Blog Post on Overview of Science & Technology Intelligence key words-concepts"
+                ],
+                "2024_10_MST__613__01": [
+                    "Discussion Post on Information and Influence Intelligence",
+                    "Discussion Post on Overview of Science & Technology Intelligence",
+                    "Week 5 - Midterm Exam",
+                    "Attendance",
+                    "Blog Post on Information and Influence Intelligence Key Words-Concepts",
+                    "Week 10 - Journal Reflection: Weeks 8-10",
+                    "Blog Post on Analytical Methodology and S&T Analysis Key Words-Concepts",
+                    "Discussion Post on Data Science Intelligence",
+                    "Student Presentations",
+                    "Discussion Post on Emerging Technologies",
+                    "Week 7 - Journal Reflection: Weeks 4-7",
+                    "Blog Post on Overview of Science & Technology Intelligence Key Words-Concepts",
+                    "Discussion Post on Globalization of S&T",
+                    "Week 9 - Human-Centered Design White Paper",
+                    "Blog Post on Emerging Technologies Key Word-Concepts",
+                    "Blog Post on Data Science Intelligence",
+                    "Week 5 - Human-Centered Design Paper Proposal",
+                    "Blog Post on Cyber Intelligence Key Words-Concepts",
+                    "Discussion Post on Counterproliferation",
+                    "Week 4 - Journal Reflection on Science and Technology Intelligence",
+                    "Blog Post on Globalization of S&T Key Words-Concepts",
+                    "Blog Post on Counterproliferation Key Words-Concepts",
+                    "Discussion Post on Analytical Methodologies & S&T Analysis",
+                    "Discussion Post on Cyber Intelligence"
+                ]
+            }
+        },
+        "MST683": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Weekly Prompt 1",
+                    "Weekly Prompt 2",
+                    "Final Paper",
+                    "Weekly Prompt 3-Extra Credit",
+                    "Final_Grade",
+                    "Bonus Points",
+                    "Participation-Attendance"
+                ],
+                "2024_10_MST__683__01": [
+                    "Attendance",
+                    "Weekly Prompt 1",
+                    "Weekly Prompt 2",
+                    "Final Paper",
+                    "Weekly Prompt 3-Extra Credit",
+                    "Final_Grade"
+                ],
+                "2024_20_MST__683__RA": [
+                    "Attendance",
+                    "Weekly Prompt 1",
+                    "Bonus Points",
+                    "Participation-Attendance",
+                    "Weekly Prompt 2",
+                    "Final Paper",
+                    "Final_Grade"
+                ]
+            }
+        },
+        "MST698": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST667": {
+            "Sections": {
+                "All": [
+                    "MST 667 Pre-course Survey",
+                    "Attendance",
+                    "Policy Paper",
+                    "Final Exam",
+                    "Class Participation",
+                    "In-class Exercise",
+                    "MST 667 - Pre-Course Survey"
+                ],
+                "2024_10_MST__667__EW1": [
+                    "Attendance",
+                    "MST 667 - Pre-Course Survey",
+                    "Policy Paper",
+                    "Final Exam",
+                    "Class Participation",
+                    "In-class Exercise"
+                ]
+            }
+        },
+        "MST690": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST659": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ],
+                "2024_20_MST__659__EH": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST658": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ],
+                "2024_20_MST__658__ET": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST692": {
+            "Sections": {
+                "All": [
+                    "Exploration Project (30%)",
+                    "Attendance",
+                    "Technical Proficiency (20%)",
+                    "Final Project (30%)",
+                    "Visualization Critique Project (20%)",
+                    "Explanation Project",
+                    "Visualization Critique",
+                    "Technical Proficiency",
+                    "Exploration Project"
+                ],
+                "2024_20_MST__692__RA": [
+                    "Explanation Project",
+                    "Attendance",
+                    "Visualization Critique",
+                    "Technical Proficiency",
+                    "Exploration Project"
+                ]
+            }
+        },
+        "MST94P": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Research Paper",
+                    "arXiv Research Presentation",
+                    "Computer Vision Lab Report",
+                    "Current Events"
+                ]
+            }
+        },
+        "MST684": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Final Paper",
+                    "Cyber Threat Characterization Brief (25% of Final Grade)",
+                    "Mid-term Paper (25% of Final Grade)",
+                    "Self-Reflection Journal (5% of Final Grade)"
+                ],
+                "2024_10_MST__684__RA": [
+                    "Attendance",
+                    "Final Paper"
+                ],
+                "2024_10_MST__684__EW1": [
+                    "Cyber Threat Characterization Brief (25% of Final Grade)",
+                    "Mid-term Paper (25% of Final Grade)",
+                    "Self-Reflection Journal (5% of Final Grade)"
+                ],
+                "2024_20_MST__684__01": [
+                    "Attendance",
+                    "Final Paper"
+                ]
+            }
+        },
+        "MST656": {
+            "Sections": {
+                "All": [
+                    "HW2",
+                    "Attendance",
+                    "HW3",
+                    "Topic Proposal",
+                    "HW1",
+                    "Midterm",
+                    "annotated bibliography"
+                ]
+            }
+        },
+        "MST686": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Network Discovery Lab",
+                    "Group Exercise: Threat Report",
+                    "Group Exercise: MITRE ATT&CK & Threat Hunting",
+                    "Group Exercise Report: Live Attacks",
+                    "Exploring Files & Structures",
+                    "Who & Where am I - Exercise",
+                    "Abstract: Term Paper Topic",
+                    "Term Paper & Presentation"
+                ],
+                "2024_10_MST__686__ET1": [
+                    "Attendance",
+                    "Network Discovery Lab",
+                    "Group Exercise: MITRE ATT&CK & Threat Hunting",
+                    "Group Exercise Report: Live Attacks",
+                    "Exploring Files & Structures",
+                    "Who & Where am I - Exercise",
+                    "Abstract: Term Paper Topic",
+                    "Term Paper & Presentation"
+                ]
+            }
+        },
+        "MST682": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Midterm",
+                    "Final Paper",
+                    "Presentation"
+                ],
+                "2024_10_MST__682__RA": [
+                    "Participation",
+                    "Attendance",
+                    "Midterm",
+                    "Final Paper",
+                    "Presentation"
+                ],
+                "2024_20_MST__682__EH": [
+                    "Participation",
+                    "Attendance",
+                    "Midterm",
+                    "Final Paper",
+                    "Presentation"
+                ]
+            }
+        },
+        "MST691": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "CLASS PARTICIPATION & ATTENDANCE #7",
+                    "MST688 Exam",
+                    "CLASS PARTICIPATION & ATTENDANCE #8",
+                    "CLASS PARTICIPATION & ATTENDANCE #9",
+                    "Group Project Code",
+                    "Visualization Exercise",
+                    "CLASS PARTICIPATION & ATTENDANCE #4",
+                    "CLASS PARTICIPATION & ATTENDANCE #6",
+                    "Final Paper",
+                    "Class Participation & Attendance #1",
+                    "CLASS PARTICIPATION & ATTENDANCE #2",
+                    "CLASS PARTICIPATION & ATTENDANCE #5",
+                    "Term Paper & Presentation",
+                    "CLASS PARTICIPATION & ATTENDANCE #3",
+                    "CLASS PARTICIPATION & ATTENDANCE #10"
+                ]
+            }
+        },
+        "MST657": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MST685": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Midterm",
+                    "Final Paper",
+                    "Presentation",
+                    "Final research paper",
+                    "Group presentation",
+                    "Class Participation"
+                ],
+                "2024_20_MST__685__RA": [
+                    "Attendance",
+                    "Final research paper",
+                    "Group presentation",
+                    "Final Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "MST680": {
+            "Sections": {
+                "All": [
+                    "Short Essay 1",
+                    "Short Essay 2",
+                    "Student Participation Weeks 5-8",
+                    "Student Participation Weeks 1-4",
+                    "Final Essay",
+                    "Midterm Essay",
+                    "Attendance"
+                ],
+                "2024_10_MST__680__ET1": [
+                    "Attendance"
+                ],
+                "2024_10_MST__680__01": [
+                    "Attendance"
+                ]
+            }
+        }
+    },
+    "MCR": {
+        "MCR611": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Class Participation (10% of grade)",
+                    "Strategic Exercise White Paper",
+                    "Midterm Exam",
+                    "Final Exam",
+                    "Course Contribution",
+                    "Reading Notes",
+                    "Mid-Term Exam",
+                    "Final",
+                    "Participation and NSC Exercise",
+                    "Midterm",
+                    "Agency Brief",
+                    "Class Participation",
+                    "Final Exam (50% of grade)",
+                    "Session 1 Reading Guide Quiz",
+                    "Reading Guide Quiz 3",
+                    "Reading Guide Quiz 7",
+                    "Session 9 Reading Guide Quiz",
+                    "Session 4 Reading Guide Quiz",
+                    "Session 2 Reading Guide Quiz",
+                    "Pre-Course Assessment",
+                    "Post Course Quiz",
+                    "Quiz grade",
+                    "Reading Guide Week 6 quiz",
+                    "Session 8 Reading Guide Quiz",
+                    "Class Participation (5% of grade)",
+                    "Session 5 Reading Guide Quiz",
+                    "Course Contribution: Attendance",
+                    "Course Contribution: Reading Note",
+                    "Mid Term",
+                    "Weather Day Make-up Options",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Agency Briefing",
+                    "IC Agency Presentation",
+                    "IC-NSP Midterm Paper",
+                    "Final Class Project",
+                    "Final_Grade",
+                    "IC-National Security Policy (NSP) Midterm Paper",
+                    "IC-National Security Policy Midterm Paper",
+                    "Agency Presentation",
+                    "IC Agency Briefs",
+                    "Midterm (40% of grade)",
+                    "Weekly Discussion Topics (5% of grade)",
+                    "Discussion",
+                    "Final Essays",
+                    "Midterm Essays (40% of grade, due 10 JAN)",
+                    "Participation",
+                    "Mid-Term",
+                    "Journal Week 10",
+                    "Journal - Week 2",
+                    "Journal Week 3",
+                    "Journal Week 1",
+                    "Journal Week 8",
+                    "Journal Week 4",
+                    "Journal Week 6",
+                    "Journal Week 7",
+                    "Pre-Course Assessment - Due before First Class",
+                    "Journal Week 5",
+                    "Journal Week 9",
+                    "Course Contribution-NSC Crisis Exercise",
+                    "Weekly Discussion Topics (5%)",
+                    "Midterm Exam (40% of grade)",
+                    "Final grade",
+                    "Final paper",
+                    "IC Agency Brief"
+                ],
+                "2024_10_MCR__611__EW3": [
+                    "Attendance",
+                    "Course Contribution",
+                    "Reading Notes",
+                    "Mid-Term Exam",
+                    "Final Exam"
+                ],
+                "2024_20_MCR__611__05": [
+                    "Attendance",
+                    "Final",
+                    "Participation and NSC Exercise",
+                    "Midterm",
+                    "Agency Brief"
+                ],
+                "2024_20_MCR__611__01": [
+                    "Attendance",
+                    "Midterm Exam",
+                    "Final Exam",
+                    "Class Participation"
+                ],
+                "2024_20_MCR__611__02": [
+                    "Final Exam (50% of grade)",
+                    "Attendance",
+                    "Session 1 Reading Guide Quiz",
+                    "Reading Guide Quiz 3",
+                    "Reading Guide Quiz 7",
+                    "Session 9 Reading Guide Quiz",
+                    "Session 4 Reading Guide Quiz",
+                    "Session 2 Reading Guide Quiz",
+                    "Pre-Course Assessment",
+                    "Post Course Quiz",
+                    "Midterm",
+                    "Quiz grade",
+                    "Reading Guide Week 6 quiz",
+                    "Session 8 Reading Guide Quiz",
+                    "Class Participation (5% of grade)",
+                    "Session 5 Reading Guide Quiz"
+                ],
+                "2024_20_MCR__611__07": [
+                    "Course Contribution: Attendance",
+                    "Attendance",
+                    "Course Contribution: Reading Note",
+                    "Mid Term",
+                    "Weather Day Make-up Options",
+                    "Final Exam"
+                ],
+                "2024_10_MCR__611__RA": [
+                    "Attendance",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Agency Briefing"
+                ],
+                "2024_10_MCR__611__RD": [
+                    "Attendance",
+                    "IC Agency Presentation",
+                    "IC-NSP Midterm Paper",
+                    "Final Class Project",
+                    "Final_Grade"
+                ],
+                "2024_10_MCR__611__RC": [
+                    "Attendance",
+                    "IC-National Security Policy (NSP) Midterm Paper",
+                    "IC-National Security Policy Midterm Paper",
+                    "Agency Presentation",
+                    "Final Paper",
+                    "IC Agency Briefs"
+                ],
+                "2024_20_MCR__611__01N": [
+                    "Final Exam (50% of grade)",
+                    "Attendance",
+                    "Midterm (40% of grade)",
+                    "Weekly Discussion Topics (5% of grade)",
+                    "Class Participation (5% of grade)"
+                ],
+                "2024_20_MCR__611__04": [
+                    "Discussion",
+                    "Final Essays",
+                    "Midterm Essays (40% of grade, due 10 JAN)"
+                ],
+                "2024_10_MCR__611__RB": [
+                    "Attendance",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Agency Briefing"
+                ],
+                "2024_20_MCR__611__08": [
+                    "Participation",
+                    "Mid-Term",
+                    "Attendance",
+                    "Journal Week 10",
+                    "Journal - Week 2",
+                    "Final",
+                    "Journal Week 3",
+                    "Journal Week 1",
+                    "Journal Week 8",
+                    "Journal Week 4",
+                    "Journal Week 6",
+                    "Journal Week 7",
+                    "Pre-Course Assessment - Due before First Class",
+                    "Journal Week 5",
+                    "Journal Week 9"
+                ],
+                "2024_20_MCR__611__QAC": [
+                    "Attendance",
+                    "Course Contribution-NSC Crisis Exercise",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Agency Briefing"
+                ],
+                "2024_10_MCR__611__EW2": [
+                    "Final Exam (50% of grade)",
+                    "Attendance",
+                    "Class Participation (10% of grade)",
+                    "Pre-Course Assessment"
+                ],
+                "2024_10_MCR__611__EW4": [
+                    "Final Exam (50% of grade)",
+                    "Attendance",
+                    "Weekly Discussion Topics (5%)",
+                    "Midterm Exam (40% of grade)",
+                    "Class Participation (5% of grade)"
+                ],
+                "2024_20_MCR__611__06": [
+                    "Final Exam (50% of grade)",
+                    "Attendance",
+                    "Class Participation (10% of grade)",
+                    "Midterm Exam (40% of grade)"
+                ],
+                "2024_10_MCR__611__EW5": [
+                    "Final grade",
+                    "Final paper",
+                    "Course Contribution",
+                    "Midterm",
+                    "IC Agency Brief"
+                ]
+            }
+        },
+        "MCR607": {
+            "Sections": {
+                "All": [
+                    "Final (3rd Deliverable)",
+                    "Attendance",
+                    "Article Argument Evaluation Essay (Mid Term, 2nd Deliverable)",
+                    "Class Participation",
+                    "Argumentation Evaluation paper",
+                    "ICD 203",
+                    "Final essay",
+                    "Class participation",
+                    "Final_Grade",
+                    "3rd Deliverable- Final",
+                    "1st Deliverable ICD 203 Group",
+                    "2nd Deliverable- Argumentation Essay",
+                    "Final",
+                    "Midterm",
+                    "2nd Deliverable- Argumentation Essay- TURN IN HERE",
+                    "3rd Deliverable- SUBMIT YOUR FINAL HERE",
+                    "1st Deliverable ICD 203 Group- SUBMIT HERE",
+                    "ICD 203 Briefing",
+                    "Mid-term Exam",
+                    "Final Exam",
+                    "ICD 203 Group Project",
+                    "Participation",
+                    "Evaluating Intelligence Analysis",
+                    "Mid Term",
+                    "Individual Reading Summary",
+                    "ICD203 Presentation",
+                    "midterm",
+                    "final paper",
+                    "product eval brief",
+                    "Final - Take Home Essays",
+                    "Midterm Argumentation Essay",
+                    "ICD 2023 Briefing",
+                    "Mid-Term",
+                    "Mid-term Essay Evaluation",
+                    "MCR 607 Final Exam"
+                ],
+                "2024_10_MCR__607__RD": [
+                    "Attendance",
+                    "Argumentation Evaluation paper",
+                    "ICD 203",
+                    "Final essay",
+                    "Class participation",
+                    "Final_Grade"
+                ],
+                "2024_10_MCR__607__03": [
+                    "3rd Deliverable- Final",
+                    "1st Deliverable ICD 203 Group",
+                    "2nd Deliverable- Argumentation Essay"
+                ],
+                "2024_10_MCR__607__05": [
+                    "Attendance",
+                    "Final",
+                    "Midterm",
+                    "ICD 203",
+                    "Class Participation"
+                ],
+                "2024_20_MCR__607__ET1": [
+                    "Attendance",
+                    "2nd Deliverable- Argumentation Essay- TURN IN HERE",
+                    "3rd Deliverable- SUBMIT YOUR FINAL HERE",
+                    "Class Participation",
+                    "1st Deliverable ICD 203 Group- SUBMIT HERE"
+                ],
+                "2024_10_MCR__607__07": [
+                    "Attendance",
+                    "ICD 203 Briefing"
+                ],
+                "2024_10_MCR__607__09": [
+                    "Attendance",
+                    "Final",
+                    "Midterm",
+                    "ICD 203",
+                    "Class Participation"
+                ],
+                "2024_10_MCR__607__QAC": [
+                    "Mid-term Exam",
+                    "Final Exam",
+                    "Class Participation",
+                    "ICD 203 Group Project"
+                ],
+                "2024_10_MCR__607__08": [
+                    "3rd Deliverable- Final",
+                    "1st Deliverable ICD 203 Group",
+                    "2nd Deliverable- Argumentation Essay"
+                ],
+                "2024_10_MCR__607__04": [
+                    "Participation",
+                    "Evaluating Intelligence Analysis",
+                    "Attendance",
+                    "Final",
+                    "Mid Term"
+                ],
+                "2024_10_MCR__607__02": [
+                    "Attendance",
+                    "Individual Reading Summary",
+                    "ICD203 Presentation"
+                ],
+                "2024_10_MCR__607__06": [
+                    "midterm",
+                    "Participation",
+                    "final paper",
+                    "product eval brief"
+                ],
+                "2024_20_MCR__607__ET2": [
+                    "Participation",
+                    "Evaluating Intelligence Analysis",
+                    "Attendance",
+                    "Final",
+                    "Mid Term"
+                ],
+                "2024_20_MCR__607__EW2": [
+                    "Participation",
+                    "Attendance",
+                    "ICD 203",
+                    "Final - Take Home Essays",
+                    "Midterm Argumentation Essay"
+                ],
+                "2024_10_MCR__607__RC": [
+                    "Attendance",
+                    "ICD 2023 Briefing"
+                ],
+                "2024_10_MCR__607__RA": [
+                    "Mid-Term",
+                    "Attendance",
+                    "Final",
+                    "ICD 203",
+                    "Class Participation"
+                ],
+                "2024_20_MCR__607__EH": [
+                    "Mid-term Essay Evaluation",
+                    "MCR 607 Final Exam",
+                    "Class Participation",
+                    "ICD 203 Group Project"
+                ]
+            }
+        },
+        "MCR608": {
+            "Sections": {
+                "All": [
+                    "Final Leadership Philosophy (10 pts- 10%)",
+                    "DQ #2",
+                    "DQ #4",
+                    "DQ #3",
+                    "Course Contribution (Engagement and Preparedness)",
+                    "IC Leader Research Paper (30 pts - 30%)",
+                    "Best Practices Application (25 pts - 25%)",
+                    "DQ #5",
+                    "DQ #1",
+                    "Attendance",
+                    "Best Practices Paper",
+                    "Reading Notes",
+                    "Leadership Philosophy",
+                    "IC Leader Paper",
+                    "Best Practices Application - Paper",
+                    "In-Class Participation",
+                    "IC Leader Research Paper",
+                    "Final Leadership Philosophy",
+                    "Participation",
+                    "Leader Research Paper",
+                    "Best Practices Application",
+                    "Leadership Philosophy (Draft)",
+                    "Draft Leadership Philosophy",
+                    "Reader Notes Session 7",
+                    "Reading Notes Session #10",
+                    "Reading Notes #1",
+                    "Reading Notes #9",
+                    "Reading Notes #4",
+                    "Reading Notes #2",
+                    "Best Practices Application Paper",
+                    "Class Participation",
+                    "Reading Notes #3",
+                    "Reading Notes #5",
+                    "Reader Notes Session 8",
+                    "Reader Notes Session 6",
+                    "Leader Philosophy Final",
+                    "Course Contribution",
+                    "Week One Journal Entry (Reading Notes)",
+                    "Best Practices Application (35 pts - 35%)",
+                    "IC Leader Research Paper (35 pts - 35%)",
+                    "Reading Notes 5",
+                    "Reading Notes 2",
+                    "Reading Notes 1",
+                    "Reading Notes 7",
+                    "Reading Notes 3",
+                    "Reading Notes 8",
+                    "Reading Notes 6",
+                    "Reading Notes 4"
+                ],
+                "2024_10_MCR__608__ET1": [
+                    "Attendance",
+                    "Best Practices Paper",
+                    "Reading Notes",
+                    "Leadership Philosophy",
+                    "IC Leader Paper"
+                ],
+                "2024_10_MCR__608__EH2": [
+                    "Best Practices Application - Paper",
+                    "In-Class Participation",
+                    "IC Leader Research Paper",
+                    "Final Leadership Philosophy"
+                ],
+                "2024_20_MCR__608__RA": [
+                    "Participation",
+                    "Attendance",
+                    "Best Practices Paper",
+                    "IC Leader Paper"
+                ],
+                "2024_10_MCR__608__EH3": [
+                    "Leader Research Paper",
+                    "Final Leadership Philosophy",
+                    "Best Practices Application",
+                    "Leadership Philosophy (Draft)"
+                ],
+                "2024_20_MCR__608__01N": [
+                    "Draft Leadership Philosophy",
+                    "Best Practices Application - Paper",
+                    "IC Leader Research Paper",
+                    "Final Leadership Philosophy",
+                    "Course Contribution (Engagement and Preparedness)"
+                ],
+                "2024_10_MCR__608__QAC": [
+                    "Reader Notes Session 7",
+                    "Reading Notes Session #10",
+                    "Reading Notes #1",
+                    "Reading Notes #9",
+                    "Draft Leadership Philosophy",
+                    "IC Leader Research Paper",
+                    "Reading Notes #4",
+                    "Final Leadership Philosophy",
+                    "Reading Notes #2",
+                    "Best Practices Application Paper",
+                    "Class Participation",
+                    "Reading Notes #3",
+                    "Reading Notes #5",
+                    "Reader Notes Session 8",
+                    "Reader Notes Session 6"
+                ],
+                "2024_10_MCR__608__EH1": [
+                    "Participation",
+                    "Attendance",
+                    "Leader Research Paper",
+                    "Leader Philosophy Final",
+                    "Best Practices Application"
+                ],
+                "2024_20_MCR__608__RB": [
+                    "Attendance",
+                    "Course Contribution",
+                    "Week One Journal Entry (Reading Notes)",
+                    "Reading Notes",
+                    "Leadership Philosophy",
+                    "Best Practices Application (35 pts - 35%)",
+                    "IC Leader Research Paper (35 pts - 35%)"
+                ],
+                "2024_20_MCR__608__RD": [
+                    "Reading Notes 5",
+                    "Draft Leadership Philosophy",
+                    "Reading Notes 2",
+                    "IC Leader Research Paper",
+                    "Reading Notes 1",
+                    "Reading Notes 7",
+                    "Final Leadership Philosophy",
+                    "Course Contribution (Engagement and Preparedness)",
+                    "Best Practices Application",
+                    "Reading Notes 3",
+                    "Reading Notes 8",
+                    "Reading Notes 6",
+                    "Reading Notes 4"
+                ]
+            }
+        },
+        "MCR701": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Research Methods",
+                    "Attendance",
+                    "Literature Review",
+                    "Research Description",
+                    "Research Proposal",
+                    "HSR-IRB",
+                    "Research Methodologies Application",
+                    "Preliminary Literature Map-Review",
+                    "Methodology Application",
+                    "Preliminary Literature Review",
+                    "Literature Map",
+                    "Rsch Descr.",
+                    "Rsch Meth App",
+                    "Library Briefing and Videos",
+                    "Rsch Prop",
+                    "Research Desc",
+                    "Lit Review-Map"
+                ],
+                "2024_10_MCR__701__07": [
+                    "Attendance"
+                ],
+                "2024_10_MCR__701__10": [
+                    "Attendance"
+                ],
+                "2024_10_MCR__701__01": [
+                    "HSR-IRB",
+                    "Attendance",
+                    "Research Methodologies Application",
+                    "Research Description",
+                    "Research Proposal",
+                    "Preliminary Literature Map-Review"
+                ],
+                "2024_10_MCR__701__11": [
+                    "Participation",
+                    "Methodology Application",
+                    "Research Description",
+                    "Preliminary Literature Review",
+                    "Research Proposal",
+                    "Literature Map"
+                ],
+                "2024_10_MCR__701__09": [
+                    "Attendance"
+                ],
+                "2024_10_MCR__701__SAC": [
+                    "Participation",
+                    "Attendance",
+                    "Rsch Descr.",
+                    "Rsch Meth App",
+                    "Library Briefing and Videos",
+                    "Rsch Prop"
+                ],
+                "2024_10_MCR__701__04": [
+                    "Research Methods",
+                    "Attendance",
+                    "Research Desc",
+                    "Lit Review-Map"
+                ],
+                "2024_10_MCR__701__02": [
+                    "Participation",
+                    "Research Methods",
+                    "Attendance",
+                    "Literature Review",
+                    "Research Description",
+                    "Research Proposal"
+                ],
+                "2024_10_MCR__701__06": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MCR609": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)",
+                    "Paper (Step 2 Peer Review Feedback)",
+                    "Paper (Step 2 Outline-Draft to Peer)",
+                    "Step 2",
+                    "Step 3",
+                    "Step 4",
+                    "Step 1",
+                    "Lecture Series",
+                    "Reflection Paper OSINT",
+                    "Reflection Paper MASINT",
+                    "Reflection Paper SIGINT",
+                    "Reflection Paper GEOINT",
+                    "Paper Step 2 Peer Review",
+                    "Reflection Paper HUMINT",
+                    "Class Participation",
+                    "Paper Step 1 Topic-Sources",
+                    "Paper Step 4 Final",
+                    "Paper Step 3 Placemat",
+                    "Reflection 2 - MASINT",
+                    "Classroom Participation",
+                    "Paper Step 2",
+                    "Reflection 1 - HUMINT",
+                    "Paper Step 1",
+                    "Reflection 3 - OSINT",
+                    "Reflection 5 - GEOINT",
+                    "Reflection 4 - SIGINT",
+                    "Paper Step 4",
+                    "Placemat (Step 3)"
+                ],
+                "2024_10_MCR__609__01": [
+                    "Attendance"
+                ],
+                "2024_10_MCR__609__04": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_10_MCR__609__08": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2 Peer Review Feedback)",
+                    "Paper (Step 2 Outline-Draft to Peer)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_10_MCR__609__05": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_10_MCR__609__02": [
+                    "Participation",
+                    "Step 2",
+                    "Classified Homework",
+                    "Step 3",
+                    "Step 4",
+                    "Step 1",
+                    "Lecture Series"
+                ],
+                "2024_20_MCR__609__RC": [
+                    "Attendance"
+                ],
+                "2024_20_MCR__609__RA": [
+                    "Reflection Paper OSINT",
+                    "Reflection Paper MASINT",
+                    "Attendance",
+                    "Reflection Paper SIGINT",
+                    "Reflection Paper GEOINT",
+                    "Classified Homework",
+                    "Paper Step 2 Peer Review",
+                    "Reflection Paper HUMINT",
+                    "Class Participation",
+                    "Paper Step 1 Topic-Sources",
+                    "Paper Step 4 Final",
+                    "Paper Step 3 Placemat"
+                ],
+                "2024_20_MCR__609__QAC": [
+                    "Reflection Paper OSINT",
+                    "Reflection Paper MASINT",
+                    "Reflection Paper SIGINT",
+                    "Reflection Paper GEOINT",
+                    "Classified Homework",
+                    "Paper Step 2 Peer Review",
+                    "Reflection Paper HUMINT",
+                    "Class Participation",
+                    "Paper Step 1 Topic-Sources",
+                    "Paper Step 4 Final",
+                    "Paper Step 3 Placemat"
+                ],
+                "2024_20_MCR__609__RD": [
+                    "Reflection 2 - MASINT",
+                    "Attendance",
+                    "Classroom Participation",
+                    "Classified Homework",
+                    "Paper Step 2",
+                    "Reflection 1 - HUMINT",
+                    "Paper Step 1",
+                    "Reflection 3 - OSINT",
+                    "Reflection 5 - GEOINT",
+                    "Reflection 4 - SIGINT",
+                    "Paper Step 4",
+                    "Placemat (Step 3)"
+                ],
+                "2024_10_MCR__609__01N": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_20_MCR__609__RB": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_10_MCR__609__03": [
+                    "Participation",
+                    "Paper (Step 1)",
+                    "Attendance",
+                    "Classified Homework",
+                    "Paper (Step 2)",
+                    "Paper (Step 4)",
+                    "Reflections (Overall)",
+                    "Paper (Step 3)"
+                ],
+                "2024_10_MCR__609__07": [
+                    "Attendance"
+                ]
+            }
+        },
+        "MCR702": {
+            "Sections": {
+                "All": [
+                    "Thesis Research"
+                ]
+            }
+        }
+    },
+    "MSSI": {
+        "INT605": {
+            "Sections": {
+                "All": [
+                    "In-Class Case Briefi#2",
+                    "Attendance",
+                    "In-Class Participation",
+                    "Final Paper",
+                    "In-Class Case Brief #1",
+                    "Mid-Term Paper",
+                    "Case Law Briefing",
+                    "Midterm Paper",
+                    "Class Participation",
+                    "Case Briefings"
+                ],
+                "2024_20_INT__605__RA": [
+                    "Attendance",
+                    "Case Law Briefing",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Class Participation"
+                ],
+                "2024_10_INT__605__01": [
+                    "Attendance",
+                    "Case Briefings",
+                    "Final Paper",
+                    "Midterm Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "MSI601": {
+            "Sections": {
+                "All": [
+                    "Final paper",
+                    "Critical Analysis Paper",
+                    "Presentation",
+                    "Participation",
+                    "CAP Paper",
+                    "Attendance",
+                    "Classified Pres",
+                    "Final Paper",
+                    "topic",
+                    "Final Paper Topic",
+                    "Classified Presentation",
+                    "Individual Presentation",
+                    "Final Paper Submission",
+                    "Critical Reading Synopsis",
+                    "Critical Analysis of Reading"
+                ],
+                "2024_10_MSI__601__04": [
+                    "Participation",
+                    "CAP Paper",
+                    "Attendance",
+                    "Classified Pres",
+                    "Final Paper",
+                    "topic"
+                ],
+                "2024_10_MSI__601__SAC": [
+                    "Participation",
+                    "Final Paper Topic",
+                    "Final Paper",
+                    "Classified Presentation",
+                    "Critical Analysis Paper"
+                ],
+                "2024_10_MSI__601__06": [
+                    "Participation",
+                    "Final Paper Topic",
+                    "Individual Presentation",
+                    "Attendance",
+                    "Final Paper Submission",
+                    "Critical Reading Synopsis"
+                ],
+                "2024_10_MSI__601__01": [
+                    "Participation",
+                    "CAP Paper",
+                    "Attendance",
+                    "Classified Pres",
+                    "Final Paper",
+                    "topic"
+                ],
+                "2024_20_MSI__601__ET": [
+                    "Participation",
+                    "Final Paper Topic",
+                    "Critical Analysis of Reading",
+                    "Final Paper",
+                    "Presentation"
+                ],
+                "2024_10_MSI__601__03": [
+                    "Participation",
+                    "Final Paper Topic",
+                    "Attendance",
+                    "Final Paper",
+                    "Classified Presentation",
+                    "Critical Analysis Paper"
+                ],
+                "2024_20_MSI__601__EH2": [
+                    "Participation",
+                    "Final Paper Topic",
+                    "Attendance",
+                    "Final Paper",
+                    "Critical Analysis Paper",
+                    "Presentation"
+                ],
+                "2024_20_MSI__601__EH1": [
+                    "Participation",
+                    "CAP Paper",
+                    "Classified Pres",
+                    "Final Paper",
+                    "topic"
+                ]
+            }
+        },
+        "CAC621": {
+            "Sections": {
+                "All": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Proposal",
+                    "Final Paper",
+                    "Class Participation"
+                ],
+                "2024_20_CAC__621__QAC": [
+                    "Attendance"
+                ],
+                "2024_20_CAC__621__EH": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Proposal",
+                    "Final Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "DEF601": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Info Paper No. 1",
+                    "Analytical Paper",
+                    "In-Class Participation",
+                    "Information Paper 2",
+                    "Information Paper 1",
+                    "Case Paper",
+                    "Class Presentation",
+                    "Participation",
+                    "Position Paper 1",
+                    "Final Paper",
+                    "Position Paper 2"
+                ],
+                "2024_10_DEF__601__02": [
+                    "Analytical Paper",
+                    "In-Class Participation",
+                    "Information Paper 2",
+                    "Information Paper 1",
+                    "Case Paper"
+                ],
+                "2024_10_DEF__601__03": [
+                    "Analytical Paper",
+                    "Attendance",
+                    "In-Class Participation",
+                    "Information Paper 2",
+                    "Information Paper 1",
+                    "Case Paper"
+                ],
+                "2024_10_DEF__601__01": [
+                    "Analytical Paper",
+                    "Attendance",
+                    "In-Class Participation",
+                    "Information Paper 2",
+                    "Information Paper 1",
+                    "Case Paper"
+                ],
+                "2024_20_DEF__601__RA": [
+                    "Class Presentation",
+                    "Participation",
+                    "Attendance",
+                    "Position Paper 1",
+                    "Final Paper",
+                    "Position Paper 2"
+                ]
+            }
+        },
+        "RSI656": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "CAC03P": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "OSINT paper",
+                    "Final Paper",
+                    "Plan-Report"
+                ]
+            }
+        },
+        "RSI639": {
+            "Sections": {
+                "All": [
+                    "Arctic Futures Exercise",
+                    "Critical Analysis of Reading",
+                    "Class Participation",
+                    "Case Study Paper",
+                    "Case Study Presentation"
+                ]
+            }
+        },
+        "INT606": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ],
+                "2024_10_INT__606__RA": [
+                    "Attendance"
+                ],
+                "2024_20_INT__606__01": [
+                    "Attendance"
+                ]
+            }
+        },
+        "CAC30P": {
+            "Sections": {
+                "All": [
+                    "CAC 430 Mid-Course Survey",
+                    "CAC 430 Pre-Test",
+                    "Attendance",
+                    "Student Group Presentation",
+                    "Mid-Term Exam",
+                    "Topical Essay",
+                    "CAC 430 Final Exam"
+                ]
+            }
+        },
+        "DEF623": {
+            "Sections": {
+                "All": [
+                    "Response Paper",
+                    "IGIVO Assignment",
+                    "Attendance",
+                    "Response Paper (IC & SOF)",
+                    "Critical Review Mazz-McChr",
+                    "Student Presentation (IGIVO)",
+                    "Class Participation",
+                    "In-class Quiz"
+                ],
+                "2024_10_DEF__623__01": [
+                    "Attendance",
+                    "Response Paper",
+                    "IGIVO Assignment"
+                ],
+                "2024_20_DEF__623__SAC": [
+                    "Response Paper (IC & SOF)",
+                    "Attendance",
+                    "Critical Review Mazz-McChr",
+                    "Student Presentation (IGIVO)",
+                    "Class Participation",
+                    "In-class Quiz"
+                ]
+            }
+        },
+        "RSI431": {
+            "Sections": {
+                "All": [
+                    "Attendance 12-5-23",
+                    "Article-Film Critique #2",
+                    "Attendance 2-6-24",
+                    "ATTENDANCE 1-16-24",
+                    "Team presentation deliverable #1",
+                    "Attendance 12-12-23",
+                    "SESSION 7 PRE-CLASS PREPARATION",
+                    "SESSION 5 PRE-CLASS PREPARATION",
+                    "Final paper deliverable #1",
+                    "SESSION 10 PRE-CLASS PREPARATION",
+                    "Article-Film Critique #1",
+                    "Team presentation deliverable #2",
+                    "Team presentation deliverable #3",
+                    "Final paper deliverable #3",
+                    "Session 4 pre-class preparation",
+                    "Attendance 11-14-23",
+                    "Session 6 pre-class preparation",
+                    "Attendance 1-2-24",
+                    "ATTENDANCE 1-23-24",
+                    "SESSION 2 PRE-CLASS PREPARATION",
+                    "SESSION 9 PRE-CLASS PREPARATION",
+                    "Final paper deliverable #2",
+                    "Attendance 1-30-24",
+                    "Attendance 12-19-23",
+                    "Attendance 1-9-24",
+                    "ATTENDANCE 11-28-23",
+                    "Pre-class preparation #1",
+                    "SESSION 3 PRE-CLASS PREPARATION",
+                    "SESSION 8 PRE-CLASS PREPARATION"
+                ]
+            }
+        },
+        "CAP400": {
+            "Sections": {
+                "All": [
+                    "Capstone Project Topics Ballot",
+                    "AY 23-34 BSI Academic Plan",
+                    "Research Description",
+                    "Research Methods Presentations",
+                    "AY 23-24 BSI Academic Plan"
+                ],
+                "2024_10_CAP__400__02": [
+                    "Capstone Project Topics Ballot",
+                    "AY 23-24 BSI Academic Plan",
+                    "Research Description",
+                    "Research Methods Presentations"
+                ]
+            }
+        },
+        "RSI611": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "FinalExam2",
+                    "Partcipation",
+                    "ReadCrit",
+                    "CaseStudy",
+                    "Midterm",
+                    "FinalExam1",
+                    "Reading Critique",
+                    "Midterm Exam Essay",
+                    "Final Exam Essay Set #2",
+                    "Strategy-Policy Case Study Brief",
+                    "Discussion Prompts",
+                    "Final Exam Overall Grade",
+                    "Final Exam Essay Set #1"
+                ],
+                "2024_20_RSI__611__EW2": [
+                    "Reading Critique",
+                    "Midterm Exam Essay",
+                    "Final Exam Essay Set #2",
+                    "Strategy-Policy Case Study Brief",
+                    "Discussion Prompts",
+                    "Final Exam Overall Grade",
+                    "Final Exam Essay Set #1"
+                ],
+                "2024_20_RSI__611__02": [
+                    "Reading Critique",
+                    "Midterm Exam Essay",
+                    "Final Exam Essay Set #2",
+                    "Strategy-Policy Case Study Brief",
+                    "Discussion Prompts",
+                    "Final Exam Overall Grade",
+                    "Final Exam Essay Set #1"
+                ],
+                "2024_20_RSI__611__EW1": [
+                    "Attendance",
+                    "FinalExam2",
+                    "Partcipation",
+                    "ReadCrit",
+                    "CaseStudy",
+                    "Midterm",
+                    "FinalExam1"
+                ]
+            }
+        },
+        "RSI641": {
+            "Sections": {
+                "All": [
+                    "Outside Reading Reflection",
+                    "Research Paper",
+                    "Research Proposal",
+                    "Policy Trip"
+                ]
+            }
+        },
+        "RSI612": {
+            "Sections": {
+                "All": [
+                    "scenario brief",
+                    "Attendance",
+                    "Case Study (15%)",
+                    "milcap brief",
+                    "final paper",
+                    "participation",
+                    "Participation",
+                    "Campaign Paper",
+                    "MILMOD Brief",
+                    "Conflict Brief",
+                    "Campaign Brief",
+                    "AE3 MILCAP Brief",
+                    "AE1",
+                    "AE4 Campaign Brief",
+                    "AE 2 (Conflict Brief)",
+                    "AE5 Final Paper"
+                ],
+                "2024_20_RSI__612__02": [
+                    "scenario brief",
+                    "Attendance",
+                    "Case Study (15%)",
+                    "milcap brief",
+                    "final paper",
+                    "participation"
+                ],
+                "2024_20_RSI__612__EH": [
+                    "Participation",
+                    "Attendance",
+                    "Campaign Paper",
+                    "MILMOD Brief",
+                    "Conflict Brief",
+                    "Campaign Brief"
+                ],
+                "2024_10_RSI__612__ET": [
+                    "scenario brief",
+                    "Attendance",
+                    "Case Study (15%)",
+                    "milcap brief",
+                    "final paper",
+                    "participation"
+                ],
+                "2024_20_RSI__612__01": [
+                    "Attendance",
+                    "AE3 MILCAP Brief",
+                    "AE1",
+                    "AE4 Campaign Brief",
+                    "AE 2 (Conflict Brief)",
+                    "AE5 Final Paper"
+                ]
+            }
+        },
+        "RSI451": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "DEF602": {
+            "Sections": {
+                "All": [
+                    "Doctrine check #2",
+                    "Attendance",
+                    "J2 staff estimate",
+                    "Intelligence estimate",
+                    "Doctrine check #1",
+                    "Doctrine check #3",
+                    "JIPOE briefing",
+                    "Contracting Course Certificate",
+                    "Information paper",
+                    "Class Participation",
+                    "Mission Analysis Exercise #3",
+                    "Joint Contracting Course",
+                    "Class Participation Self-Assessment",
+                    "Extra Credit (Survey and BB Discussion)"
+                ],
+                "2024_20_DEF__602__03": [
+                    "Doctrine check #2",
+                    "Attendance",
+                    "J2 staff estimate",
+                    "Intelligence estimate",
+                    "Doctrine check #1",
+                    "Doctrine check #3",
+                    "JIPOE briefing",
+                    "Mission Analysis Exercise #3",
+                    "Information paper",
+                    "Class Participation",
+                    "Joint Contracting Course"
+                ],
+                "2024_20_DEF__602__01": [
+                    "Doctrine check #2",
+                    "Attendance",
+                    "J2 staff estimate",
+                    "Class Participation Self-Assessment",
+                    "Intelligence estimate",
+                    "Doctrine check #1",
+                    "Doctrine check #3",
+                    "JIPOE briefing",
+                    "Information paper",
+                    "Extra Credit (Survey and BB Discussion)"
+                ],
+                "2024_20_DEF__602__04": [
+                    "Doctrine check #2",
+                    "Attendance",
+                    "J2 staff estimate",
+                    "Intelligence estimate",
+                    "Doctrine check #1",
+                    "Doctrine check #3",
+                    "Information paper",
+                    "Class Participation",
+                    "Joint Contracting Course"
+                ]
+            }
+        },
+        "TRN10P": {
+            "Sections": {
+                "All": [
+                    "Network Financial Profile Proposal",
+                    "Attendance",
+                    "In-Class Presentation",
+                    "Network Financial Profile Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "RSI605": {
+            "Sections": {
+                "All": [
+                    "Critical Reflection & Analysis #2",
+                    "Attendance",
+                    "Critical Reflection & Analysis #1",
+                    "Final Research Paper Outline",
+                    "Final Research Paper Presentation"
+                ]
+            }
+        },
+        "RSI632": {
+            "Sections": {
+                "All": [
+                    "Assessment V, Deliverable #1",
+                    "Reading Critique",
+                    "Attendance",
+                    "Group Exercise",
+                    "Oral Presentation",
+                    "Final Paper",
+                    "Class Participation"
+                ],
+                "2024_10_RSI__632__EH": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Group Exercise",
+                    "Oral Presentation",
+                    "Final Paper",
+                    "Class Participation"
+                ],
+                "2024_10_RSI__632__EM": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Group Exercise",
+                    "Oral Presentation",
+                    "Final Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "RSI602": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Response Paper",
+                    "Policy Memo",
+                    "Presentation",
+                    "Current Event"
+                ]
+            }
+        },
+        "CAP401": {
+            "Sections": {
+                "All": [
+                    "Research Meth App",
+                    "Lit Map-Bib Essay",
+                    "Attendance",
+                    "Quizzes",
+                    "Analytic Intelligence Updates",
+                    "Research Description",
+                    "Draft Research Proposal",
+                    "Class Participation",
+                    "Research Proposal",
+                    "Analytic Intel Updates"
+                ],
+                "2024_10_CAP__401__02": [
+                    "Research Meth App",
+                    "Lit Map-Bib Essay",
+                    "Attendance",
+                    "Quizzes",
+                    "Research Description",
+                    "Research Proposal",
+                    "Class Participation",
+                    "Analytic Intel Updates"
+                ]
+            }
+        },
+        "CAC630": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "CAC630 Final Exam Inquiry",
+                    "CAC 630 Mid-Course Survey",
+                    "Classroom Participation",
+                    "Mid Term Exam",
+                    "Warning Essay",
+                    "Classroom Reading Presentation",
+                    "CAC 630 Final Exam",
+                    "CAC 630 Pre-Test"
+                ]
+            }
+        },
+        "CAC610": {
+            "Sections": {
+                "All": [
+                    "Short Paper # 1",
+                    "Attendance",
+                    "Short Paper # 2",
+                    "NIPF Team Project",
+                    "Class Participation",
+                    "Reflection # 1",
+                    "Reflection # 2"
+                ]
+            }
+        },
+        "RSI637": {
+            "Sections": {
+                "All": [
+                    "Class Presentation",
+                    "Intro Assignment",
+                    "Midterm",
+                    "Final Exam",
+                    "Class Participation",
+                    "Oral Congressional Testimony",
+                    "Written Congressional Testimony",
+                    "Written CP- Group Exercise",
+                    "LOVROV Oral Presentation"
+                ],
+                "2024_20_RSI__637__01": [
+                    "Oral Congressional Testimony",
+                    "Written Congressional Testimony",
+                    "Written CP- Group Exercise",
+                    "LOVROV Oral Presentation",
+                    "Class Participation"
+                ]
+            }
+        },
+        "DEF625": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Case Study",
+                    "Wargame",
+                    "Final Essay",
+                    "Final Presentation"
+                ]
+            }
+        },
+        "CAC613": {
+            "Sections": {
+                "All": [
+                    "Class Contribution (2)",
+                    "Class Session 6 Forum (NLT 03 OCT, 1700 hours)",
+                    "Class Session 10 Forum (NLT 17 OCT, 1700 hours)",
+                    "Class Session 5 Forum (NLT 26 SEP, 1700 hours)",
+                    "Class Contribution (4)",
+                    "Class Contribution (9)",
+                    "Class Contribution (10)",
+                    "Class Session 9 Forum (NLT 24 OCT, 1700 hours)",
+                    "Class Session 4 Forum (NLT 19 SEP, 1700 hours)",
+                    "Class Session 8 Forum (NLT 17 OCT, 1700 hours)",
+                    "Class Contribution (3)",
+                    "Truth and Perceptions (prior to first class session)",
+                    "Class Contribution (6)",
+                    "Class Contribution (1)",
+                    "CAC 613 Final Exam (Scenario THREE)",
+                    "Class Contribution (7)",
+                    "Class Session 2 Forum (NLT 05 SEP, 1700 hours)",
+                    "Class Contribution (5)",
+                    "Class Session 3 Forum (NLT 12 SEP, 1700 hours)",
+                    "Class Session 7 Forum (NLT 10 OCT, 1700 hours)",
+                    "Class Contribution (8)",
+                    "Case Study Presentation",
+                    "Attendance"
+                ],
+                "2024_20_CAC__613__RA": [
+                    "Attendance"
+                ]
+            }
+        },
+        "TRN609": {
+            "Sections": {
+                "All": [
+                    "Dynamic Threat Project (Group Presentation)",
+                    "Attendance",
+                    "Dynamic Threat Project (Individual Paper)",
+                    "Annotated Bibliography",
+                    "Blackboard Participation",
+                    "Players In the Homeland (Agency Brief)"
+                ]
+            }
+        },
+        "TRN602": {
+            "Sections": {
+                "All": [
+                    "TURN IN CRITICAL ANALYSIS HERE",
+                    "TURN IN FINAL EXAM HERE",
+                    "TURN IN MID-TERM EXAM HERE",
+                    "gradebook placeholder for classified assessment",
+                    "Critical Analysis and Discussion Leader Signup"
+                ]
+            }
+        },
+        "RSI635": {
+            "Sections": {
+                "All": [
+                    "Assessment Element III, Deliverable #6",
+                    "Assessment IV, Deliverable #2",
+                    "Assessment IV, Deliverable #1",
+                    "Assessment IV, Deliverable #4",
+                    "Assessment Element I",
+                    "Assessment Element III, Deliverable #5",
+                    "Assessment Element III, Deliverable #3",
+                    "Assessment Element III, Deliverable #1",
+                    "Assessment Element III, Deliverable #2"
+                ]
+            }
+        },
+        "CAC620": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "RC presentation",
+                    "mid-term essay",
+                    "participation",
+                    "final essay"
+                ],
+                "2024_10_CAC__620__QAC": [
+                    "Attendance"
+                ]
+            }
+        },
+        "RSI606": {
+            "Sections": {
+                "All": [
+                    "Critique of Classified",
+                    "Attendance",
+                    "Futures Presentation",
+                    "Application 2",
+                    "Informed Participation",
+                    "Application 1"
+                ]
+            }
+        },
+        "RSI610": {
+            "Sections": {
+                "All": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Crisis Presentation",
+                    "Midterm Exam Essay",
+                    "Final Exam Essay Set #2",
+                    "Discussion Prompts",
+                    "Final Exam Overall Grade",
+                    "Final Exam Essay Set #1",
+                    "Participation",
+                    "FinalExam2",
+                    "ReadCrit",
+                    "Midterm",
+                    "CrisBrief",
+                    "FinalExam1"
+                ],
+                "2024_10_RSI__610__EW": [
+                    "Reading Critique",
+                    "Attendance",
+                    "Crisis Presentation",
+                    "Midterm Exam Essay",
+                    "Final Exam Essay Set #2",
+                    "Discussion Prompts",
+                    "Final Exam Overall Grade",
+                    "Final Exam Essay Set #1"
+                ],
+                "2024_10_RSI__610__EH": [
+                    "Participation",
+                    "Attendance",
+                    "FinalExam2",
+                    "ReadCrit",
+                    "Midterm",
+                    "CrisBrief",
+                    "FinalExam1"
+                ],
+                "2024_10_RSI__610__01": [
+                    "Participation",
+                    "Attendance",
+                    "FinalExam2",
+                    "ReadCrit",
+                    "Midterm",
+                    "CrisBrief",
+                    "FinalExam1"
+                ]
+            }
+        },
+        "INT601": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Primary Source Analysis",
+                    "Short Essay Exam",
+                    "Applied Case Study",
+                    "Response Paper",
+                    "Annotated Bibliography",
+                    "Class Participation"
+                ]
+            }
+        },
+        "RSI636": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Mid-term",
+                    "Research Briefing",
+                    "Final Exam",
+                    "FINAL EXAM",
+                    "MID TERM"
+                ],
+                "2024_20_RSI__636__EH": [
+                    "Participation",
+                    "FINAL EXAM",
+                    "Research Briefing",
+                    "MID TERM"
+                ]
+            }
+        },
+        "CAC611": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "TRN606": {
+            "Sections": {
+                "All": [
+                    "Analysis Paper #1",
+                    "Attendance",
+                    "Course Contribution",
+                    "Analysis Paper 3",
+                    "Seasonal Variation Worksheet",
+                    "GDP Nominal v Real Values and Percentage Change Worksheet",
+                    "Analysis Paper 2",
+                    "Simple Moving Average Worksheet",
+                    "Analysis Paper 4",
+                    "Case Study Paper",
+                    "Case Study Presentation"
+                ]
+            }
+        },
+        "TRN607": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Transnational Challenge of the Day",
+                    "Research Paper",
+                    "Precis",
+                    "Paper Presentation",
+                    "Reading Discussion Leader"
+                ],
+                "2024_10_TRN__607__SAC": [
+                    "Attendance"
+                ]
+            }
+        },
+        "CAC14P": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Briefing",
+                    "Final Paper",
+                    "Midterm Paper"
+                ]
+            }
+        },
+        "RSI30P": {
+            "Sections": {
+                "All": [
+                    "Essay - Technology",
+                    "PARTICIPATION - SESSION 2 - 20 NOVEMBER",
+                    "Final",
+                    "Essay - Training & Exercising",
+                    "Session 5 - Participation",
+                    "Session 1 - Participation",
+                    "Midterm",
+                    "Session 6 - Participation",
+                    "Session 7 - Participation",
+                    "Session 4 - Participation",
+                    "Technology Presentation",
+                    "Session 8 - Participation",
+                    "Session 3 - Participation",
+                    "midterm",
+                    "final paper",
+                    "presentation",
+                    "participation"
+                ],
+                "2024_10_RSI__630P_01": [
+                    "midterm",
+                    "final paper",
+                    "presentation",
+                    "participation"
+                ]
+            }
+        },
+        "MSI699": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Case  Study #2",
+                    "Case Study #1",
+                    "Final Paper",
+                    "Midterm Paper"
+                ]
+            }
+        },
+        "INT603": {
+            "Sections": {
+                "All": [
+                    "Contribution",
+                    "Reading Notes",
+                    "Midterm Exam",
+                    "Final Exam",
+                    "Presentation"
+                ]
+            }
+        },
+        "DEF622": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Mid-term Exam",
+                    "Research Paper",
+                    "UN Resolution Presentation",
+                    "Reading Review",
+                    "Class Participation"
+                ]
+            }
+        },
+        "CAC601": {
+            "Sections": {
+                "All": [
+                    "midterm",
+                    "final paper",
+                    "participation"
+                ]
+            }
+        },
+        "INT501": {
+            "Sections": {
+                "All": [
+                    "Course Contribution",
+                    "Final - Leadership Philosophy",
+                    "Draft Leadership Philosophy",
+                    "Bridging Exercise",
+                    "Discussion Board",
+                    "Leadership Perspectives Survey (24 questions) Sept 2023"
+                ]
+            }
+        },
+        "INT502": {
+            "Sections": {
+                "All": [
+                    "NSC Exercise",
+                    "IC  Challenge Paper",
+                    "IC Budget Exercise",
+                    "Final Paper",
+                    "Class Participation"
+                ]
+            }
+        },
+        "RSI615": {
+            "Sections": {
+                "All": [
+                    "Article Response #1",
+                    "Article Response #2",
+                    "Class Participation",
+                    "Analytic Research Paper",
+                    "Senior Leader Brief"
+                ]
+            }
+        },
+        "INT604": {
+            "Sections": {
+                "All": [
+                    "Attendance",
+                    "Research Paper",
+                    "Fiction Review",
+                    "Facilitation",
+                    "Class Participation"
+                ]
+            }
+        },
+        "RSI651": {
+            "Sections": {
+                "All": [
+                    "Participation",
+                    "Attendance",
+                    "Final Grade Adjusted",
+                    "Optional Reading",
+                    "Final Paper",
+                    "Presentation"
+                ]
+            }
+        },
+        "RSI613": {
+            "Sections": {
+                "All": [
+                    "Attendance"
+                ]
+            }
+        },
+        "hececk": {
+            "Sections": {
+                "All": []
+            }
+        }
+    }
+}
