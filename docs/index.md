@@ -1,6 +1,10 @@
-# Jupyter Bridge - For a Technology Literate World
+# Jupyter Bridge
 
-## Overview
+##   For a Technology Literate World
+---
+
+<small>*The views expressed in this documentation are the creators own and do not refelect the view of the U.S. Government or Director of National Intelligence.*</small>
+
 
 **What:** Jupyter Bridge believes that democracy is effective because it works on the premise that good ideas can come from anywhere. 
 
@@ -11,11 +15,14 @@
 1. Allow developers and data scientists to **bridge** the technical gap with users more effectively
 2. Allow users to engage technology in a domain of comfort then explore the technology in a scaffolded approach
 
+**Questions, Comments or Concerns?** Contact Us- thomas.d.pike@ni-u.edu or  melissa.c.laduke@ni-u.edu
+
+---
 ## Organization
 
-Jupyter Bridge is just getting started so take a look at our demo tool - [Grade Dashboard](put link here). Appropriately, the domain for this tool is education. The idea is academic administrators and course directors can see their grades and assignments across their sections to identify trends and dynamics of their courses to imporve their courses. 
+Jupyter Bridge is just getting started so take a look at our two analytics a Grade Dashboard and a Pandemic Model 
 
-If you have a tool you want to contribute please see below. 
+If you have an analytic you want to contribute please see below. 
 
 
 ## Requirements
@@ -117,12 +124,13 @@ See [RELEASE](RELEASE.md)
 
 ```{toctree}
 ---
-maxdepth: 2
+maxdepth: 0
 hidden: true
 ---
-Overview <self>
-Example <domains/education/grade_dashboard>
-Domains <domains/domain_overview>
+Welcome <self>
+Overview <overview>
+Grade DashBoard <grade_dashboard/grade_dashboard>
+Pandemic Model <pandemic_model/pandemic_model>
 ```
 
 ## Indices and tables

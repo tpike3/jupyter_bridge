@@ -24,3 +24,7 @@ dependencies:
   - pandas
   - solara
   - plotly
+  - matplotlib
+  - pip:
+      - mesa[rec]>=3.0.0b2
+      - mesa-geo>=0.9.0a1
